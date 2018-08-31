@@ -1,0 +1,12 @@
+﻿Module Module1
+    Declare Function GetAsyncKeyState Lib "user32" (ByVal vKey As Long) As Integer
+    Function GetPressedKey() As String
+        For Cnt = 1 To 1000
+            If GetAsyncKeyState(Cnt) <> 0 Then
+                GetPressedKey = Cnt 'Chr$(Cnt)  
+                Exit For
+            End If
+        Next Cnt
+    End Function
+
+End Module

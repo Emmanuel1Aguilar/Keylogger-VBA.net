@@ -1,0 +1,5 @@
+C:\Users\Emmanuel Aguilar\source\repos\Beats\Beats\obj\Debug\Beats.vbprojAssemblyReference.cache
+C:\Users\Emmanuel Aguilar\source\repos\Beats\Beats\obj\Debug\Beats.Form1.resources
+C:\Users\Emmanuel Aguilar\source\repos\Beats\Beats\obj\Debug\Beats.Resources.resources
+C:\Users\Emmanuel Aguilar\source\repos\Beats\Beats\obj\Debug\Beats.vbproj.GenerateResource.cache
+C:\Users\Emmanuel Aguilar\source\repos\Beats\Beats\obj\Debug\Beats.vbproj.CoreCompileInputs.cache
